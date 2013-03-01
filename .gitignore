@@ -1,0 +1,10 @@
+# Tout les fichiers .class
+*.class
+
+# Le dossier /target
+/target
+
+# Les fichiers settings, project et classpath
+.settings
+.project
+.classpath
